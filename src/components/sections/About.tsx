@@ -5,7 +5,7 @@ import SectionHeader from "../SectionHeader";
 import Image from "next/image";
 
 const storyText =
-    "I am a 3rd-year Computer Science student at Toronto Metropolitan University with a strong focus on backend systems, APIs, and AI automation. Currently a Backend Developer Intern at Nodalli, I specialize in building automated pipelines, optimizing SQL queries, and utilizing LLM orchestration to handle complex workflows. I enjoy bridging the technical side with tangible real-world results.";
+    "I am a 4th-year Computer Science student at Toronto Metropolitan University with a strong focus on backend systems, APIs, and AI automation. Currently a Backend Developer Intern at Nodalli, I specialize in building automated pipelines, optimizing SQL queries, and utilizing LLM orchestration to handle complex workflows. I enjoy bridging the technical side with tangible real-world results.";
 
 export default function About() {
     return (
